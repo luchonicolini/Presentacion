@@ -1,2 +1,2 @@
 # Presentacion
-Es inicio de seccion echo en swift 
+Inicio de seccion con un email y pasword 
